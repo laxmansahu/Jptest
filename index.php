@@ -7,4 +7,6 @@ new line
 
 new second line
 
+new feature line
+
 ?>
