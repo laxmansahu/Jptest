@@ -7,4 +7,5 @@ new line
 
 new second line
 
+Added new line:
 ?>
