@@ -4,4 +4,8 @@ sasasassas
 asasasas
 
 
+<<<<<<< HEAD
 xzxzXzXzX
+=======
+axxxxxxx
+>>>>>>> fbf2b020b50dbe82451580bdf6c2971325a60f00
