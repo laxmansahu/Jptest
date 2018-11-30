@@ -1,4 +1,13 @@
 <?php 
-$var = a ;
+phpcredits();
+
+pg_pconnect(connection_string);
+
+new line
+
+new second line
+Added new line:
+
+new feature line
 
 ?>
